@@ -1,17 +1,16 @@
 # opisthenar
-Dataset and models for UIST2019 paper
+Dataset and models for the UIST2019 paper "Opisthenar: Hand Poses and Finger Tapping Recognition by Observing Back of Hand Using Embedded Wrist Camera" [[ACML DL]](https://dl.acm.org/doi/10.1145/3332165.3347867)
 
-I upload the images and model in my Google Drive for now (might move to my university server later).
+Tested in Windows 10, Python 3.6.3, TensorFlow 1.10, CUDA 9
 
-Static Pose
-Train set (7zip, ~9gb): https://drive.google.com/open?id=1zFb3lZqSVgiKGhSTI1CwsGndPxUBUSIj
-Test set: https://drive.google.com/open?id=1z83dvxdgt_7f5iwDxizSsvWl8mGfLoaM
+Download and extract this merged TestSet and Models [[TestSetMergedAndModels.zip]](https://risweb.st-andrews.ac.uk/portal/files/272965965/TestSetMergedAndModels.zip)
 
-Dynamic Motion
-Train set (7zip, ~9gb): https://drive.google.com/open?id=1DpdCnD4mLRY-LN-JzAQI55WSUAUoSv1W
-Test set: https://drive.google.com/open?id=1cf17ZSfp0Jlc64zzFo7dsyqoAWrTM4vR
+Run TestStatic.py and TestMotion.py 
 
-Models:
-https://drive.google.com/open?id=1YbpaEqg8_MiT1d8A5pW-8oPjsnaGboxz
+For train set, refer to the repository in University
+https://risweb.st-andrews.ac.uk/portal/en/datasets/opisthenar-dataset-uist2019-thesis-data(6ca91424-7f7f-4b7b-964b-bd2c3409aaaf).html
 
-More information to come.
+
+
+
+
